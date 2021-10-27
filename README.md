@@ -8,4 +8,5 @@
 
 Добавлено ДЗ 2 по лекции "Системы контроля версий"
 
-[]
+[02-git-01](https://github.com/dzhangrLV/devops-netology/tree/main/02-git-01)
+
