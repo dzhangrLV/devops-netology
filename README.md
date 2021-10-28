@@ -10,3 +10,7 @@
 
 [02-git-01](https://github.com/dzhangrLV/devops-netology/tree/main/02-git-01)
 
+Добавлено ДЗ 3 по лекции "Основы Git"
+
+[02-git-02](https://github.com/dzhangrLV/devops-netology/tree/main/02-git-02)
+
