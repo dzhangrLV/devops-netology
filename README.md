@@ -14,3 +14,7 @@
 
 [02-git-02](https://github.com/dzhangrLV/devops-netology/tree/main/02-git-02)
 
+Добавлено ДЗ 4 по лекции "Ветвления в Git"
+
+[02-git-03](https://github.com/dzhangrLV/devops-netology/tree/main/02-git-03)
+
