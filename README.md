@@ -14,5 +14,6 @@
 Добавлено ДЗ 4 по лекции "Ветвления в Git"  
 [02-git-03](https://github.com/dzhangrLV/devops-netology/tree/main/02-git-03)
 
-
+Добавлено ДЗ 5 по лекции "Инструменты Git"  
+[02-git-04](https://github.com/dzhangrLV/devops-netology/tree/main/02-git-04)
 
